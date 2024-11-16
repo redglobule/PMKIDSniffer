@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# PMKIDSniffer
-=======
-<<<<<<< HEAD
-# PMKIDSniffer
-=======
 
 # PMKID Collector and Converter Tool
 
@@ -164,6 +158,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Happy hacking! Stay ethical and legal when using this tool.
-
->>>>>>> 0ff5dd3 (Initial commit)
->>>>>>> c6f2ed2 (Initial commit)
