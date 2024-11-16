@@ -41,8 +41,8 @@ Before using this tool, ensure that your system meets the following requirements
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pmkid-collector-converter.git
-cd pmkid-collector-converter
+git clone https://github.com/redglobule/PMKIDSniffer.git
+cd PMKIDSniffer/
 ```
 
 ### 2. Install Python Dependencies
@@ -76,7 +76,7 @@ sudo apt install hcxtools -y
 To use the tool, simply execute the script with superuser privileges:
 
 ```bash
-sudo python3 pmkid_collector.py
+sudo python3 main.py
 ```
 
 ### 2. Enter the Wi-Fi Interface
